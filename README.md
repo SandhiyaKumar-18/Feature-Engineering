@@ -12,7 +12,7 @@ This repository dedicated for Feature Engineering
 ##### 3.Varaiable Identification
 
 ### 2.Feature Cleaning
-### Feature cleaning the process of removing Impurities present in the dataset,accoding to the types of data
+#### Feature cleaning the process of removing Impurities present in the dataset,accoding to the types of data
 
 ##### 1.Missing Values[[repo]](https://github.com/SandhiyaKumar-18/Univariate-Analysis-Bar-chart)
 ##### 2.Ouliers[[repo]]
